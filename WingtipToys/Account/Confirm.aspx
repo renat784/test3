@@ -11,7 +11,7 @@
         </asp:PlaceHolder>
         <asp:PlaceHolder runat="server" ID="errorPanel" ViewStateMode="Disabled" Visible="false">
             <p class="text-danger">
-                An error has occurred.
+                
             </p>
         </asp:PlaceHolder>
     </div>
